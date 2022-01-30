@@ -18,7 +18,7 @@ public class Person {
     }
 
     public void printPerson() {
-        System.out.println("Информация о сутруднике(ах) старше 40 лет: " + this.fio + ", " + this.position + ", " + this.email + ", " + this.phone + ", " + this.cash + ", " + this.age + ".");
+        System.out.println("Информация о сутруднике(ах) старше 40 лет: " + this.FIO + ", " + this.position + ", " + this.email + ", " + this.phone + ", " + this.cash + ", " + this.age + ".");
     }
 
 }
