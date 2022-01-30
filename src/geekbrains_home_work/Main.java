@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         employeeArray();
     }
+
     public static void employeeArray() {
         Person[] employeeArray = new Person[5];
         employeeArray[0] = new Person("Ivanov", "Director", "111111@gmail.com", 375672534, 1000, 35);
